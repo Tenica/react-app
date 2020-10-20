@@ -11,7 +11,7 @@ return     <section className="home-slider owl-carousel">
       <div className="col-md-10 text-center col-sm-12 element-animate">
         <h1>Welcome to Trailblazers Insurance Brokers</h1>
         <p className="mb-5 sub-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi unde impedit, necessitatibus, soluta sit quam minima expedita atque corrupti reiciendis.</p>
-        <p><Link to ="About" className="btn btn-white btn-outline-white px-3 py-3">About Us</Link> <Link to ="Contact" className="btn btn-link btn-white">Contact Us</Link></p>
+        <p><a href ="/About" className="btn btn-white btn-outline-white px-3 py-3">About Us</a> <a href="/Contact" className="btn btn-link btn-white">Contact Us</a></p>
       </div>
     </div>
   </div>
